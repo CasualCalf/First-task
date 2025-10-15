@@ -18,7 +18,7 @@ _ИТ-11.24.5 Ф_
 
 1. Скопировать ссылку репозитория:
 2. Найти зелёную кнопку "Code" на GitHub
-3. Скопировать ссылку https://github.com/username/repository-name.git
+3. Скопировать ссылку: https://github.com/username/repository-name.git
 4. Открыть командную строку
 5. Выполнить команду:
  ```
