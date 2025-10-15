@@ -77,3 +77,7 @@
 ## Сценарий использования лидерборда
 
 <img width="524" height="768" alt="image" src="https://github.com/user-attachments/assets/d562c340-6c2b-49b9-a736-53dfea5ce63e" />
+
+## Структура данных игрока 
+
+<img width="1280" height="911" alt="image" src="https://github.com/user-attachments/assets/a90f57be-746a-4a10-92eb-d82ac17ab410" />
