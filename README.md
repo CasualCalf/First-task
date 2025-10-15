@@ -29,3 +29,4 @@ _ИТ-11.24.5 Ф_
    ```
    git pull
    ```
+<img width="767" height="745" alt="image" src="https://github.com/user-attachments/assets/7627b837-d82a-4ba8-addf-181ca713695d" />
